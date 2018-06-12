@@ -4,7 +4,7 @@ EyeNet contains clinical retinal images and disease's labels for medical informa
 
 Only viewing for educational and academic purpose. 
 
-Accepted on ICML-WCB 2018 @Jesper Tegner Group
+Accepted at ICML-WCB 2018 @Jesper Tegner Group
 
 ## Please follow RIB's using credit and privacy during the data processing. 
 
