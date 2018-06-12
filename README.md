@@ -6,7 +6,7 @@ Accepted on ICML-WCB 2018 @Jesper Tegner Group
 
 ## Please follow RIB's using credit and privacy during the data processing. 
 
-“This image was originally published in the Retina Image Bank. Author. Photographer. Title. Retina Image Bank. Year; Image Number. © the American Society of Retina Specialists."
+“This image was originally published in the Retina Image Bank. © the American Society of Retina Specialists."
 
 All other rights reserved.
 
