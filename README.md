@@ -1,6 +1,6 @@
-# EyeSet
+# EyeNet
 
-EyeSet contains clinical retinal images and disease's labels for medical informatics and machine learning research
+EyeNet contains clinical retinal images and disease's labels for medical informatics and machine learning research
 
 Accepted on ICML-WCB 2018 @Jesper Tegner Group
 
