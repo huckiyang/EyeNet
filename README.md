@@ -1,6 +1,6 @@
 # EyeNet
 
-EyeNet contains clinical retinal images and disease's labels for medical informatics and machine learning research
+EyeNet contains clinical retinal and disease's labels for medical informatics and machine learning research
 
 Only viewing for educational and academic purpose. 
 
