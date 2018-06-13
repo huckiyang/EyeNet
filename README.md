@@ -6,7 +6,7 @@ Only viewing the images for educational and academic purpose. Please access the 
 
 http://imagebank.asrs.org/
 
-Accepted at ICML-IJCAI Workshop of CompBio 2018 
+A Machine Learning algorithm framework has been accepted at ICML-IJCAI Workshop of CompBio 2018 
 
 ## Please follow RIB's using credit and privacy during the data processing. 
 
