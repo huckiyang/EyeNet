@@ -12,7 +12,8 @@ http://imagebank.asrs.org/terms-of-use#contributors
 
 http://imagebank.asrs.org/terms-of-use#visitors
 
-“This image was originally published in the Retina Image Bank. © the American Society of Retina Specialists."
+“This image was originally published in the Retina Image Bank. Author. Photographer. Title. Retina Image Bank. Year; Image Number. 
+© the American Society of Retina Specialists."
 
 All other rights reserved.
 
