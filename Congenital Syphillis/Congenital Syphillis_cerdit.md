@@ -1,0 +1,1 @@
+This image was originally published in the Retina Image Bank. Hamid Ahmadieh, MD ; Soodabeh Fouladin, Negah Eye Center, Tehran, Iran Retina Image Bank. 2017 © the American Society of Retina Specialists.All other rights reserved.Contact imagebank@asrs.org with copyright or use questions.
