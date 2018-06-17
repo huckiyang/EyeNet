@@ -1,6 +1,6 @@
-This image was originally published in the Retina Image Bank. Ingrid E. Zimmer-Galler, MD ; David Emmert, Wilmer Eye Institute, Johns Hopkins University Retina Image Bank. 2013 © the American Society of Retina Specialists. All other rights reserved. Contact imagebank@asrs.org with copyright or use questions. 
+This image was originally published in the Retina Image Bank. Ingrid E. Zimmer-Galler, MD ; David Emmert, Wilmer Eye Institute, Johns Hopkins University Retina Image Bank. 2013 © the American Society of Retina Specialists.All other rights reserved.Contact imagebank@asrs.org with copyright or use questions. 
 
-Only viewing the original images by the index number from the Retina Image Bank (RIB) for an educational and academic purpose. Please only access the Images via Retina Image Bank Website.
+Only viewing the original images by the index number from the Retina Image Bank (RIB) for educational and academic purpose. Please only access the Images via Retina Image Bank Website.
 
 http://imagebank.asrs.org/
 
