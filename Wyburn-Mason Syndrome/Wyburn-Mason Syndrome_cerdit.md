@@ -4,7 +4,7 @@ Only viewing the original images by the index number from the Retina Image Bank 
 
 http://imagebank.asrs.org/
 
-Please follow RIB's using credit and privacy during the data processing.
+##Please follow RIB's using credit and privacy during the data processing.
 http://imagebank.asrs.org/terms-of-use#contributors
 
 http://imagebank.asrs.org/terms-of-use#visitors
