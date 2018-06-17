@@ -4,7 +4,7 @@ A Machine Learning algorithm framework has been accepted at ICML-IJCAI Workshop 
 
 EyeNet contains clinical retinal and disease's labels for medical informatics and machine learning research.
 
-Only viewing the original images by the index number from the Retina Image Bank (RIB) for an educational and academic purpose. Please only access the Images via Retina Image Bank Website. A full credit index has been set in each folder of a specific disease. 
+Only viewing the original images by the index number from the Retina Image Bank (RIB) for an educational or academic purpose. Please only access the Images via Retina Image Bank Website. A full credit index has been set in each folder of a specific disease. 
 
 http://imagebank.asrs.org/
 
