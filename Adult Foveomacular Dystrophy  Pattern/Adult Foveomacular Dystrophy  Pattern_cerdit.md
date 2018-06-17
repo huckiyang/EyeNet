@@ -1,7 +1,7 @@
 This image was originally published in the Retina Image Bank. Mallika Goyal, MD ; Mallika Goyal, MD, Apollo Health City, Hyderabad, India Retina Image Bank. 
 2016 © the American Society of Retina Specialists.
 
-All other rights reserved.Contact imagebank@asrs.org with copyright or use questions.
+All other rights reserved. Contact imagebank@asrs.org with copyright or use questions.
 
 ## Please follow RIB's using credit and privacy during the data processing. 
 
