@@ -4,6 +4,8 @@ A Machine Learning algorithm framework (SVM+DNNs) has been accepted at ICML-IJCA
 
 ![image](https://github.com/huckiyang/EyeNet/blob/master/GUI_demo.png)
 
+EyeNet contains machine learning models and disease's labels for medical informatics and machine learning research
+
 Ref. https://arxiv.org/abs/1806.06423 
 
 BibTex
@@ -15,13 +17,13 @@ BibTex
   year={2018}
 }
 
-## EyeNet contains machine learning models and disease's labels for medical informatics and machine learning research.
+## Only viewing the original images by the index number from the Retina Image Bank (RIB) for an educational or academic purpose.
 
-Only viewing the original images by the index number from the Retina Image Bank (RIB) for an educational or academic purpose. Please only access the Images via Retina Image Bank Website. A full credit index has been set in each folder of a specific disease. 
+Please only access the Images via Retina Image Bank Website. A full credit index has been set in each folder of a specific disease. 
 
 http://imagebank.asrs.org/
 
-## Please follow RIB's using credit and privacy during the data processing. 
+## Please follow RIB's using credit and privacy during the data processing
 
 http://imagebank.asrs.org/terms-of-use#contributors
 
