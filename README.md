@@ -2,6 +2,8 @@
 
 A Machine Learning algorithm framework has been accepted at ICML-IJCAI Workshop of CompBio 2018 
 
+![image](https://github.com/huckiyang/EyeNet/blob/master/GUI_demo.png)
+
 Ref. https://arxiv.org/abs/1806.06423 
 
 BibTex
