@@ -1,6 +1,6 @@
 # EyeNet
 
-A Machine Learning algorithm framework has been accepted at ICML-IJCAI Workshop of CompBio 2018 
+A Machine Learning algorithm framework (SVM+DNNs) has been accepted at ICML-IJCAI Workshop of CompBio 2018 
 
 ![image](https://github.com/huckiyang/EyeNet/blob/master/GUI_demo.png)
 
