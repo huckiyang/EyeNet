@@ -17,7 +17,7 @@ BibTex
   year={2018}
 }
 
-## Only viewing the original images by the index number from the Retina Image Bank (RIB) for an educational or academic purpose.
+## Only viewing the original images by the index number from the Retina Image Bank (RIB) for an educational or academic purpose
 
 Please only access the Images via Retina Image Bank Website. A full credit index has been set in each folder of a specific disease. 
 
