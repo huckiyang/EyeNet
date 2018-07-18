@@ -6,16 +6,22 @@ A Machine Learning algorithm framework (SVM+DNNs) has been accepted at ICML-IJCA
 
 EyeNet contains machine learning models and disease's labels for medical informatics and machine learning research
 
-Ref. https://arxiv.org/abs/1806.06423 
+## Reference
 
-BibTex
+https://arxiv.org/abs/1806.06423 
 
+If you find this useful in your work, please consider citing the following reference:
+```c
 @article{yang2018novel,
   title={A Novel Hybrid Machine Learning Model for Auto-Classification of Retinal Diseases},
   author={Yang, C-H Huck and Huang, Jia-Hong and Liu, Fangyu and Chiu, Fang-Yi and Gao, Mengya and Lyu, Weifeng and Tegner, Jesper and others},
   journal={arXiv preprint arXiv:1806.06423},
   year={2018}
 }
+}
+```
+
+
 
 ## Only viewing the original images by the index number from the Retina Image Bank (RIB) for an educational or academic purpose
 
@@ -34,4 +40,4 @@ http://imagebank.asrs.org/terms-of-use#visitors
 
 All other rights reserved.
 
-Contact imagebank@asrs.org with copyright or use questions.
+Contact imagebank@asrs.org with copyright or use questions. 
