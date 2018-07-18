@@ -18,7 +18,6 @@ If you find this useful in your work, please consider citing the following refer
   journal={arXiv preprint arXiv:1806.06423},
   year={2018}
 }
-}
 ```
 
 
